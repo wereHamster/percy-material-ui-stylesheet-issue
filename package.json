@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "parcel-bundler": "*",
+    "react": "*",
+    "react-dom": "*",
+    "@material-ui/core": "*"
+  }
+}
