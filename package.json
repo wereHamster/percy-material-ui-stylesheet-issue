@@ -1,4 +1,8 @@
 {
+  "scripts": {
+    "start": "./node_modules/.bin/parcel start src/index.html",
+    "build": "./node_modules/.bin/parcel build src/index.html"
+  },
   "dependencies": {
     "parcel-bundler": "*",
     "react": "*",
